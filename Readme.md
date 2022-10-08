@@ -1,1 +1,1 @@
-INFOTECH Squad is a developer-led initiative to grow the community of developers building open source software across the Philippines.
+INFOTECH Squad is a community group to help other in learning,developing and building open source software around the Philippines.
